@@ -1,4 +1,0 @@
-PORT=3000
-
-MONGO_URI=mongodb+srv://jeissonm:123@nodejsjm.0dpycpq.mongodb.net/?retryWrites=true&w=majority
-MONGO_DBNAME=inventario
