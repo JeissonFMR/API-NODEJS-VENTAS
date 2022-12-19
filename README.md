@@ -10,5 +10,5 @@ npm run dev
 
 
 ```
-Se tiene la creación, vista, actualización, eliminación PARA PRODUCTOS Y USUARIOS.
+Se tiene la creación, vista, actualización, eliminación -> PARA PRODUCTOS Y USUARIOS.
 ```
